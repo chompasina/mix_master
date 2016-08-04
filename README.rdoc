@@ -1,28 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project creates a user interface for music playlists. It follows a tutorial found at [Turing](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master/1_getting_started.markdown).
+Creating the music playlists offered the opportunity to explore one-to-many and many-to-many data relationships.
 
-Things you may want to cover:
+During the project, I used RSpec and Capybara for feature testing, and RSpec for model tests. I also used FactoryGirl to create factories for testing purposes.
+Additionally, this project implemented authentication using the Spotify OAuth.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+After finishing, I deployed the app to Heroku.
