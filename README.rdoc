@@ -1,6 +1,6 @@
 == README
 
-This project creates a user interface for music playlists. It follows a tutorial found at [Turing](https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master/1_getting_started.markdown).
+This project creates a user interface for music playlists. It follows a tutorial found at (Turing)[https://github.com/turingschool/lesson_plans/blob/master/ruby_02-web_applications_with_ruby/mix_master/1_getting_started.markdown].
 Creating the music playlists offered the opportunity to explore one-to-many and many-to-many data relationships.
 
 During the project, I used RSpec and Capybara for feature testing, and RSpec for model tests. I also used FactoryGirl to create factories for testing purposes.
